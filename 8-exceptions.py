@@ -66,3 +66,10 @@ Note:
 For integer division in Python 3 use //.
 SOLUTION
 '''
+
+T = int(input("Enter the number of Test Cases: "))
+
+for i in range(0,T+1):
+    a_b = int(input("Enter value of a: "))
+
+
